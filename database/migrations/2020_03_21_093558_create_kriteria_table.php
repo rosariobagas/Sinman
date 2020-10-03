@@ -31,6 +31,6 @@ class CreateKriteriaTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('nutrisi');
+        Schema::dropIfExists('kriteria');
     }
 }

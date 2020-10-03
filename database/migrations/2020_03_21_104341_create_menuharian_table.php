@@ -40,6 +40,6 @@ class CreateMenuHarianTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('pilihan_sarapan');
+        Schema::dropIfExists('menuharian');
     }
 }
