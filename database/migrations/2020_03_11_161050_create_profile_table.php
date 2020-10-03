@@ -27,6 +27,9 @@ class CreateProfileTable extends Migration
             $table->string('statusBmi');
             $table->double('kalori');
             $table->double('kaloriDiet');
+            $table->double('Protein');
+            $table->double('Lemak');
+            $table->double('Karbohidrat');
             $table->string('aktifitas');
             $table->double('valueAktifitas');
             $table->timestamps();
