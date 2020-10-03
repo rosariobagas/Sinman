@@ -23,6 +23,7 @@ class CreateRekomendasiTable extends Migration
         });
     }
 
+
     /**
      * Reverse the migrations.
      *
@@ -30,6 +31,6 @@ class CreateRekomendasiTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('pilihan_sarapan');
+        Schema::dropIfExists('rekomendasi');
     }
 }
