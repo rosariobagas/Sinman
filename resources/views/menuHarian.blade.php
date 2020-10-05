@@ -72,9 +72,13 @@
             </div>
         @endif
       <br>
+    <h5 class="display-5 text-secondary">Menu ini digunakan untuk men-simulasikan asupan kalori harian berdasarkan makanan</h5>
+    <br>
+    <br>
     <a class="display-5 text-secondary">Kalori Normal Harian: {{Session::get('kalori')}} Kkal</a>
     <br>
     <a class="display-5 text-secondary">Kalori Diet: {{Session::get('kaloriDiet')}} Kkal</a>
+    <br>
     <br>
     Menu Sarapan:
     <div class="form-group">
@@ -146,20 +150,7 @@
    </div>
   </div>
 
-  
 
-
-  <div class="container">
-    <section style="height:80px;"></section>
-	<div class="row" style="text-align:center;">
-	</div>
-    <!----------- Footer ------------>
-    <footer class="footer-bs">
-        <div class="row">
-        </div>
-    </footer>
-
-</div>
   <!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 

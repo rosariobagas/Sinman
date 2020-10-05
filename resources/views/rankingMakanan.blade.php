@@ -67,11 +67,10 @@
             </div>
         @endif
   
-      
     <h5 class="display-4 text-body" style="left: 5cm; position: absolute; top:2cm;">Ranking Makanan</h5>
-    <h6 class="display-5 text-body" style="left: 7cm; position: absolute; top:4cm;">Halaman ini digunakan untuk memberikan rekomendasi makanan yang sesuai dengan kebutuhan MakroNutrisi pengguna.</h6>
-    <h6 class="display-5 text-body" style="left: 6cm; position: absolute; top:4.6cm;">Pengguna dapat mengatur kandungan Makronutrisi yang diinginkan, dengan menekan tombol ubah kriteria. Setelah menentukan</h6>
-    <h6 class="display-5 text-body" style="left: 6cm; position: absolute; top:5.2cm;">kandungan Makronutrisi dari makanan. Web SINMAN akan meranking makanan yang cocok berdasarkan kandungan MakroNutrisi yang dipilih pengguna.</h6>
+    <h5 class="display-5 text-secondary" style="left: 6cm; position: absolute; top:4cm;">Halaman ini digunakan untuk memberikan rekomendasi makanan yang sesuai dengan kebutuhan MakroNutrisi pengguna.</h5>
+    <h5 class="display-5 text-secondary" style="left: 6cm; position: absolute; top:4.6cm;">Tekan tombol ubah kriteria untuk menentukan tingkat kandungan nutrisi yang diinginkan.</h5>
+    <h5 class="display-5 text-secondary" style="left: 6cm; position: absolute; top:5.2cm;">Selanjutnya, web akan merekomendasikan makanan yang cocok sesuai dengan tingkat nutrisi yang telah dipilih.</h5>
     <br>
     <br>
     <br>
