@@ -208,7 +208,7 @@ class profileController extends Controller
             }
             else if($n==4){
                 $kriteria->namaKriteria = "Kalori";
-                $kriteria->costBenefit = 'Cost';
+                $kriteria->costBenefit = 'Benefit';
                 
             }
 

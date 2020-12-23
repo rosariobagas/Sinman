@@ -107,9 +107,9 @@
       <div class="form-group">
             <label for="aktivitas"></label>
               <select class="form-control" id="Kalori" name="Kalori">
-                <option value="1">Tinggi</option>
+                <option value="3">Tinggi</option>
                 <option value="2">Sedang</option>
-                <option value="3">Rendah</option>
+                <option value="1">Rendah</option>
               </select>
       </div>
       <br>
