@@ -76,9 +76,9 @@
               <select class="form-control" id="aktifitas" name="aktifitas">
                 <option value="">Kegiatan Fisik Harian</option>
                 <option value="Sangat Jarang Olahraga">Sangat Jarang Olahraga</option>
-                <option value="Jarang Olahraga">Jarang Olahraga (1 - 3 hari/minggu)</option>
-                <option value="Normal Olahraga">Normal Olahraga (3 - 5 hari/minggu)</option>
-                <option value="Sering Olahraga">Sering Olahraga (6 - 7 hari/minggu)</option>
+                <option value="Jarang Olahraga">Jarang Olahraga</option>
+                <option value="Normal Olahraga">Normal Olahraga</option>
+                <option value="Sering Olahraga">Sering Olahraga</option>
               </select>
           </div>
           <br>
